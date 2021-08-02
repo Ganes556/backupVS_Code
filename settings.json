@@ -1,0 +1,23 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "git.autofetch": true,
+  "python.languageServer": "Microsoft",
+  "git.confirmSync": false,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
+  "java.refactor.renameFromFileExplorer": "autoApply",
+  "git.enableSmartCommit": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "prettier.printWidth": 240,
+  "editor.formatOnSave": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"maven.terminal.customEnv": [],
+"terminal.integrated.defaultProfile.windows": "Git Bash",
+"editor.mouseWheelZoom": true
+}
